@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Muhammed Anas!
+### 👋 Hi there, I'm Muhammed Anas
 Software Developer
 <h3>When I code, I rely on</h3>
 <p>
