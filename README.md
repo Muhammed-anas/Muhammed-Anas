@@ -36,6 +36,6 @@ Buy me a coffee
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
 
 
