@@ -38,4 +38,4 @@ Buy me a coffee
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact)
