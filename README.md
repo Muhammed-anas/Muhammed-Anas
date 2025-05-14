@@ -30,10 +30,6 @@ Software Developer
 </p>
 
 
-Buy me a coffee
-
-<a href="https://www.buymeacoffee.com/Muhammed_Anas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
