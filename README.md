@@ -33,6 +33,6 @@ Software Developer
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
-<a href="https://www.buymeacoffee.com/Muhammed_Anas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact)](https://github.com/Muhammed-anas)
 
