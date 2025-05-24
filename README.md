@@ -39,10 +39,7 @@ Software Developer
   <a href="https://www.linkedin.com/in/muhammed-anas" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/MuhammedAnas" target="_blank" rel="noopener noreferrer">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:muhammedanas@example.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:muhammedanas6282@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -51,7 +48,7 @@ Software Developer
 
 <h3>Support me</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/muhammedanas" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.buymeacoffee.com/Muhammed_Anas" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
   </a>
 </p>
