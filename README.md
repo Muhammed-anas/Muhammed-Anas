@@ -61,4 +61,6 @@ Software Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact&cache_seconds=1800)](https://github.com/Muhammed-anas)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ab9fc337-12b3-4a06-963e-f5e9216cb305/deploy-status)](https://app.netlify.com/projects/gregarious-pudding-b16183/deploys)
+
 
