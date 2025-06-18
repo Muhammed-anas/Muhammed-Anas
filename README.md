@@ -57,6 +57,6 @@ Software Developer
 
 <h3> 📊 My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast&cache_seconds=1800)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact&cache_seconds=1800)](https://github.com/Muhammed-anas)
