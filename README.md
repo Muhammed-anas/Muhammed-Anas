@@ -46,7 +46,7 @@ Software Developer
 
 ---
 
-Buy me a coffee
+Support Me
 
 <a href="https://www.buymeacoffee.com/Muhammed_Anas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
