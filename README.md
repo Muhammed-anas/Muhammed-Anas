@@ -46,13 +46,9 @@ Software Developer
 
 ---
 
-<h3>Buy Me A Coffee</h3>
+Buy me a coffee
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Muhammed_Anas" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
-  </a>
-</p>
+<a href="https://www.buymeacoffee.com/Muhammed_Anas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
