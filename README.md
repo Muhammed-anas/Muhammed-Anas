@@ -56,6 +56,6 @@ Support Me
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+
