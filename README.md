@@ -53,7 +53,11 @@ Support Me
 
 <h3> 📊 My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammed-anas&theme=highcontrast&cache_seconds=1800)](https://git.io/streak-stats)
+<!-- Option 1: Use a more stable public mirror (no anuraghazra domain) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Muhammed-anas&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact&cache_seconds=1800)](https://github.com/Muhammed-anas)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Muhammed-anas&layout=compact&theme=highcontrast)](https://github.com/Muhammed-anas)
 
+<!-- Option 2: If you self-host, replace `readme.example.com` with your domain:
+[![Top Langs](https://readme.example.com/api/top-langs/?username=Muhammed-anas&layout=compact&theme=highcontrast)](https://github.com/Muhammed-anas)
+-->
